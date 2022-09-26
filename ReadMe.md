@@ -3,7 +3,7 @@ Performs CRUD operations from CLI/Bash
 Data is persisted in file written to disk 
 Demonstrates use of filesystem, chalk, yargs modules etc.
 
-# Node Application Sample Project 
+# NodeJS CLI Diary App 
 A stripped-down CLI-based application that can be used as a personal tweet-note diary or journal. Persons who love weird and tech-savvy looking diary app can either improve this app or simply use as it is.
  
 ## How to Run
