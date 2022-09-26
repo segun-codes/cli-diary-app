@@ -1,8 +1,3 @@
-Simple CLI node application
-Performs CRUD operations from CLI/Bash
-Data is persisted in file written to disk 
-Demonstrates use of filesystem, chalk, yargs modules etc.
-
 # NodeJS CLI Diary App 
 A stripped-down CLI-based application that can be used as a personal tweet-note diary or journal. Persons who love weird and tech-savvy looking diary app can either improve this app or simply use as it is.
  
@@ -40,6 +35,11 @@ A stripped-down CLI-based application that can be used as a personal tweet-note 
 ## About the Application 
 1. It demonstrates the utility of node and 3rd-party modules including filesystem, chalk, yargs etc.
 2. Anyone can improve this app with any other missing components including any bells and whittles;
+
+## To do (Near-term and future)  
+1. Setup search functionality etc.
+2. Integrate REACT-based UI.
+3. Any other useful bells and whittles as my spare time permits.
 
 
 
